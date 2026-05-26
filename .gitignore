@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Placeholder assets generated locally by tools/generate_placeholders.py.
+# Remove this line and commit the assets when the real artwork lands.
+/game_assets/
